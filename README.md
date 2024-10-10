@@ -21,12 +21,12 @@ Caso contrário, pode haver um problema de integridade.
 **Permissões**: O script pode requerer permissões de superusuário (sudo) para executar.
 Certifique-se de ter as permissões necessárias.
 
-### Torne o script executável:
+#### Torne o script executável:
 ```bash
 sudo chmod+x <nome do script>
 ```
 
-### Execute o script:
+#### Execute o script:
 ```bash
 systemUpdate.sh
 ```
