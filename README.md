@@ -21,6 +21,18 @@ Caso contrário, pode haver um problema de integridade.
 **Permissões**: O script pode requerer permissões de superusuário (sudo) para executar.
 Certifique-se de ter as permissões necessárias.
 
+###Torne o script executável:
+```bash
+sudo chmod+x <nome do script>
+```
+
+###Execute o script:
+```bash
+systemUpdate.sh
+```
+
+
+
 ## Limpeza de Cache do Navegador
 
 Este script realiza a limpeza do cache dos navegadores instalados, como Firefox e Chrome. Isso pode ajudar a liberar espaço em disco e resolver problemas de carregamento de páginas.
