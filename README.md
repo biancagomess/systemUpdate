@@ -28,7 +28,7 @@ sudo chmod+x <nome do script>
 
 #### Execute o script:
 ```bash
-systemUpdate.sh
+sudo ./systemUpdate.sh
 ```
 
 
